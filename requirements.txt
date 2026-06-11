@@ -7,3 +7,4 @@ keras
 scikit-learn
 pillow
 fpdf
+gdown
